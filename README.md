@@ -13,7 +13,7 @@ My model achieved a private score (AUC) of 0.91746. This score would have placed
 <img src="score.png" alt="Figure 1" style="width: 400px;"/>
 <br>
 
-[Customer Transaction Private leaderboard (just before 100th with 0.91746 score](https://www.kaggle.com/c/santander-customer-transaction-prediction/leaderboard)
+[Customer Transaction Private leaderboard (just after 100th with 0.91746 score)](https://www.kaggle.com/c/santander-customer-transaction-prediction/leaderboard)
 <br>
 <img src="leaderboard.png" alt="Figure 1" style="width: 400px;"/>
 <br>
