@@ -10,12 +10,12 @@ My model achieved a **private score (AUC) of 0.91746**. This score would have pl
 [My verified score by Kaggle](https://www.kaggle.com/jamesngoa/santander-ctp-modeling-0-917-priv-lb)
 
 <br>
-<img src="Assignment3Fig1.png" alt="Figure 1" style="width: 400px;"/>
+<img src="score.png" alt="Figure 1" style="width: 400px;"/>
 <br>
 
 [Customer Transaction Private leaderboard](https://www.kaggle.com/c/santander-customer-transaction-prediction/leaderboard)
 <br>
-<img src="Assignment3Fig1.png" alt="Figure 1" style="width: 400px;"/>
+<img src="leaderboard.png" alt="Figure 1" style="width: 400px;"/>
 <br>
 
 ### Competition introduction
