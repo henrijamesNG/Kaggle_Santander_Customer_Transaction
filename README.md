@@ -23,10 +23,3 @@ My model achieved a private score that would have placed me **101st in the leade
 <br>
 
 
-[Private leaderboard of the competition *Customer Transaction Prediction*](https://www.kaggle.com/c/santander-customer-transaction-prediction/leaderboard) (would be right after the 100th with my model AUC score of 0.91746)
-
-<br>
-<img src="leaderboard_LI.jpg" alt="Figure 1" style="width: 400px;"/>
-<br>
-
-
